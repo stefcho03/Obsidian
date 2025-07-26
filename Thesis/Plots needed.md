@@ -1,0 +1,10 @@
+- [ ] RMSE of 2 magnets
+- [ ] RMSE of 2 sensors
+- [ ] predicted vs. actual 2 magnets sagittal
+- [ ] other 2 planes
+- [ ] 2D plot of magnetic field?
+- [ ] predicted vs. actual 2 sensors
+- [ ] predicted vs actual 2 magnets real sagittal
+- [ ] predicted vs actual 1 magnet real
+- [ ] RMSE over range of motion
+- [ ] Other 

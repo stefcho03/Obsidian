@@ -1,0 +1,2 @@
+[[First seminar]]
+[[Second seminar]]
