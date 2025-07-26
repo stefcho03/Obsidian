@@ -11,6 +11,6 @@ NN - Neural network
 RNN - Recurrent neural network
 RCJ - Rolling contact joint
 DoF - Degree of freedom
-
-laos
+![[image12-ezgif.com-loop-count.gif]]
+![[MAIN_RCJ_normal-ezgif.com-loop-count (1).gif]]
 test
